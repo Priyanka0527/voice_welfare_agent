@@ -1,0 +1,6 @@
+gtts
+SpeechRecognition
+PyAudio
+playsound
+
+
