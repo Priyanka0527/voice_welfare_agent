@@ -1,5 +1,3 @@
-# voice_welfare_agent
-
 # Odia Voice-Based Government Scheme Assistant
 
 ## Author
