@@ -1,0 +1,19 @@
+# Architecture Document
+
+## Agent Lifecycle
+User Input → Planner → Executor → Eligibility Tool → Evaluator → Output
+
+## Planner
+Determines missing user information and next action.
+
+## Executor
+Calls eligibility engine using structured scheme data.
+
+## Evaluator
+Explains eligibility result and handles contradictions.
+
+## Memory
+Stores user profile and detects conflicting inputs.
+
+## Failure Handling
+Handles empty or invalid input gracefully.

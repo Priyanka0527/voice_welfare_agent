@@ -1,0 +1,13 @@
+# Evaluation Transcript
+
+## Successful Interaction
+User enters age 30, income 150000, occupation farmer, category General.
+System returns eligible schemes.
+
+## Failed Interaction
+User submits empty income.
+System asks user to re-enter numeric value.
+
+## Edge Case
+User enters invalid text.
+System recovers without crashing.
